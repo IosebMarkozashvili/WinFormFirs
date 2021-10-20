@@ -1,0 +1,17 @@
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\FluentValidation.dll
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\FluentValidation.xml
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Migrations.WebApi.resources
+C:\Users\imarkozashvili\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.l.resources
